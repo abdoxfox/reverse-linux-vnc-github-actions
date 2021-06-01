@@ -49,4 +49,3 @@ All of those secrets are required for the script to work, if you forget to add o
 
 
 :v 
-------------------------------------------------------------------
