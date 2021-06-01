@@ -31,6 +31,8 @@ All of those secrets are required for the script to work, if you forget to add o
 
 4) Trigger an build, by editing this README or uploading anything to your repository, don't modify the contents of the resources or scripts folders
 
+
+xd
 5) Go to the Actions tab of your repository, go to your build process and wait until the pre-last step, that it will hang forever while setting ngrok's tunnel
 
 6) Visit ngrok's tunnel list [dashboard](https://dashboard.ngrok.com/status/tunnels)
